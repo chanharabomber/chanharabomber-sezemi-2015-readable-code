@@ -1,6 +1,7 @@
 # chanharabomber-sezemi-2015-readable-code
 
 # 今日はプログラム能力上げます
+#
 # This is a simple program.
 # how to execute recipe.java
 # first,u have to prepare for environment(IDE etc)
@@ -20,4 +21,13 @@
 # then you can see
 # オムライス^^
 #
+#### how to execute recipe.java ####
+# 
+# $ javac recipe.java
+# 
+# recipe-data.txt is about recipe
+# $ java recipe recipe-data.txt
+# 
+# 
  
+
